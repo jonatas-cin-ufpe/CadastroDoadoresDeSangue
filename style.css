@@ -24,7 +24,7 @@ header, main, footer {
 	text-align: center;
 }
 
-header h1 {
+header h1, main h2{
 	margin-bottom: 70px;
 }
 
@@ -37,6 +37,7 @@ h1, h2 {
 	text-align: right;
 	color: #ffffff;
 	font-size: 20px;
+	margin-bottom: 24px;
 }
 
 main h2 span {
@@ -88,6 +89,7 @@ header p {
 	padding: 16px 64px;
 	border-radius: 6px;
 }
+
 
 
 form input, form button {
@@ -177,4 +179,5 @@ section.form.hide {
 	visibility: hidden;
 	height: 0;
 	margin-top: -70px;
+
 }
