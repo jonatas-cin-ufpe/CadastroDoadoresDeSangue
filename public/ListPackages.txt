@@ -1,0 +1,16 @@
+//Pacotes necessários para o Node.Js
+
+//instala o pacote do servidor
+npm install express
+
+// Cria o pacote json
+npm init -y
+
+//instala o monitoramento de arquivos
+npm install nodemon
+
+//instalao o compilador de html
+npm install nunjucks
+
+//instala o postgres
+npm install pg
